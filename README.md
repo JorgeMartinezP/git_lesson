@@ -1,3 +1,5 @@
+THIRD Change to the freaking file!
+
 
 This repository contains the files used for a git lesson
 
